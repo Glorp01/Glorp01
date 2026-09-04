@@ -53,5 +53,6 @@ Explore the beauty of life, explore what you yet have not seen.
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=aryanfarid@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Glorp01)
+![Discord](https://img.shields.io/badge/Discord-vexionclix1715-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 </div>
