@@ -12,7 +12,7 @@
 
 ### About Me
 
-I currently am self taught and mainly use Python and JavaScript.
+I currently am self-taught developer and mainly use Python and JavaScript.
 
 Explore the beauty of life, explore what you yet have not seen.
 
